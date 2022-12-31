@@ -11,6 +11,7 @@
 <li>use multi threading to do parallel DOS attack to all access points</li>
 <li>easy to get information about nearly access point using : sudo wlist interdacename scan</li>
 <li>use regex to get what you need</li>
+<li>change interface channel to access point channel</li>
 <li>your interface should be in monitor mode </li>
 <li>may while you are doing dos attack your network manager change interface to maneged mode , disable NetworkManager : sudo service NetworkManager stop</li>
   
