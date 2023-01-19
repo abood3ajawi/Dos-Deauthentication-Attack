@@ -15,8 +15,8 @@ from threading import Thread
 
 +---------------------------------------+
 + Done by :                             +
-+          - Abdelrahman Ajawi 131998   +
-+          - Ayham Alhami  134736       +
++          - Abdelrahman Ajawi          +
++          - Ayham Alhami               +
 +                                       +
 + Instructor : Mohammed Alshourman      +
 +---------------------------------------+
